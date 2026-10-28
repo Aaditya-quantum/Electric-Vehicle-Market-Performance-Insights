@@ -73,23 +73,17 @@ Explore the interactive Tableau dashboard for additional EV market insights.
 ## 📂 Project Structure
 
 ```text
-EV-Market-Performance-Insights/
-│
+Electric-Vehicle-Market-Performance-Insights/
 ├── app.py
+├── index.html
 ├── ev_market_test.csv
 ├── requirements.txt
 ├── README.md
-│
-├── templates/
-│   └── index.html
-│
-└── screenshots/
-    ├── 01-dashboard-overview.png
-    ├── 02-manufacturer-battery-analysis.png
-    ├── 03-sales-customer-ratings.png
-    └── 04-vehicle-price-analysis.png
+├── Dashbord.png
+├── Market performance analysis.png
+├── Vehicle price vs drivinf range.png
+└── EV_Market_Performance & Insights.twbx
 ```
-
 ## 🚀 Run the Project Locally
 
 ### Prerequisites
@@ -107,7 +101,7 @@ git clone https://github.com/Aaditya-quantum/Electric-Vehicle-Market-Performance
 ### 2. Open the project folder
 
 ```bash
-cd EV-Market-Performance-Insights
+cd Electric-Vehicle-Market-Performance-Insights
 ```
 
 ### 3. Install dependencies
@@ -132,11 +126,11 @@ http://127.0.0.1:5000
 
 ## 📁 Dataset
 
-The project uses EV market data stored in `ev_market_test.csv`.
+The project uses the EV market dataset stored in `ev_market_test.csv`, included in this repository.
 
 The dataset is used to explore available vehicle attributes, including manufacturer, battery specifications, vehicle categories, annual sales, vehicle prices, driving ranges, and customer ratings.
 
-**Dataset source:** Add the original Kaggle dataset URL here if applicable.
+
 
 ## 📈 Key Analyses
 
@@ -157,3 +151,6 @@ https://github.com/Aaditya-quantum
 ⭐ If you find this project useful, consider giving the repository a star!
 
 *Built to turn EV market data into actionable insights.*
+
+
+

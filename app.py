@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 
-app = Flask(__name__)
-DATA_FILE = "ev_market_train.csv"
+app = Flask(__name__, template_folder=".")
+DATA_FILE = "ev_market_test.csv"
 
 @app.route("/")
 def dashboard():
@@ -117,3 +117,6 @@ def dashboard():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
