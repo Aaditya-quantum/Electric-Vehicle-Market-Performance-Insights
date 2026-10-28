@@ -39,23 +39,23 @@ It includes:
 
 ### 1. Dashboard Overview
 
-![EV Dashboard Overview](https://github.com/Abhishek6178/-EV-Market-Performance-Insights/blob/main/Dashbord.png)
+![EV Dashboard Overview](./Dashbord.png)
 
 ### 2. Manufacturer & Battery Analysis
 
-![Manufacturer and Battery Analysis](https://github.com/Abhishek6178/-EV-Market-Performance-Insights/blob/main/Market%20performance%20analysis.png)
+![Manufacturer and Battery Analysis](./Market%20performance%20analysis.png)
 
 ### 3. Vehicle Price & Driving Range Analysis
 
-![Vehicle Price and Driving Range](https://github.com/Abhishek6178/-EV-Market-Performance-Insights/blob/main/Vehicle%20price%20vs%20drivinf%20range.png)
+![Vehicle Price and Driving Range](./Vehicle%20price%20vs%20drivinf%20range.png)
 
 ## 📊 Tableau Dashboard
 
 Explore the interactive Tableau dashboard for additional EV market insights.
 
-**[View Tableau Dashboard](https://public.tableau.com/app/profile/abhishek.kumar2060/viz/EV_Market_PerformanceInsights/EVMarketAnalysisDashboard?publish=yes)**
+**[View Tableau Dashboard](https://github.com/Aaditya-quantum/Electric-Vehicle-Market-Performance-Insights/blob/main/EV_Market_Performance%20%26%20Insights.twbx)**
 
-> Replace the placeholder above with your actual Tableau Public dashboard URL.
+> Download the Tableau packaged workbook from this repository to explore the dashboard in Tableau.
 
 ## 🛠️ Technologies Used
 
@@ -101,7 +101,7 @@ EV-Market-Performance-Insights/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Amanc0de/EV-Market-Performance-Insights.git
+git clone https://github.com/Aaditya-quantum/Electric-Vehicle-Market-Performance-Insights.git
 ```
 
 ### 2. Open the project folder
@@ -148,8 +148,8 @@ The dataset is used to explore available vehicle attributes, including manufactu
 
 ## 👨‍💻 Author
 
-**Abhishek Kumar**
-https://github.com/Abhishek6178
+**Aaditya**
+https://github.com/Aaditya-quantum
 
 
 ---
@@ -157,4 +157,3 @@ https://github.com/Abhishek6178
 ⭐ If you find this project useful, consider giving the repository a star!
 
 *Built to turn EV market data into actionable insights.*
-
